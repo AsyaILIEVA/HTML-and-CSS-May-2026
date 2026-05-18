@@ -1,0 +1,11 @@
+.article-metadata{
+    color: grey;
+}
+
+.article-metadata time{
+    font-style: italic;
+}
+
+.article-metadata span{
+    font-weight: bold;
+}
